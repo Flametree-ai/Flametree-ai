@@ -41,3 +41,4 @@ Automate collections through timely, two-way engagement to improve repayment rat
 - Website: https://flametree.ai/
 - Documentation: https://docs.flametree.ai/
 - GitHub: https://github.com/Flametree-ai
+- GitHub Pages: https://flametree-ai.github.io/
