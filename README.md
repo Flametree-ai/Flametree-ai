@@ -4,41 +4,42 @@
 
 Controlled AI customer interactions with full customer context and complete visibility.
 
-Flametree is an AI customer operations platform for banks and fintechs. It helps teams deploy omnichannel AI agents across customer acquisition, onboarding, service operations, and collections, with customer context, controlled agent behavior, and visibility across interactions.
+Flametree is an AI Customer Operations Platform for financial services, including consumer lenders, card issuers, and digital banks. It combines voice and text AI agents, customer context, actions in connected systems, human-agent collaboration, and conversation analytics.
 
 ## Use Cases
 
 ### Acquisition & Conversion
 
-Convert visitors into qualified leads through 24/7 AI-driven engagement.
+Respond to inbound enquiries, explain offers, and qualify leads through AI-driven engagement.
 
 ### Onboarding & Activation
 
-Recover abandoned onboarding journeys by identifying drop-off reasons and guiding users to completion.
+Follow up on incomplete applications, identify where customers need help, and guide them through the next steps, with human handoff when needed.
 
 ### Service Operations
 
-Resolve complex customer requests in real time, execute authorized operations through connected systems, escalate when needed, and trigger relevant next-best actions.
+Answer general and customer-specific questions, execute authorized operations through connected systems, and transfer requests to human agents with conversation history and a summary.
 
 ### Collections Management
 
-Automate collections through timely, two-way engagement to improve repayment rates and reduce operational effort.
+Automate payment reminders and two-way collections conversations, record promises to pay, and arrange follow-up within the financial institution's policies. Escalate complex cases to human agents.
 
 ## Platform
 
-- Omnichannel AI agents with customer context and a 360-degree view built from connected data and linked customer identities
-- Controlled agent behavior, with seamless AI-human handoff and Copilot capabilities
-- AI-powered outbound campaigns and two-way customer engagement
-- Analytics across agents, campaigns, and customer journeys
-- Model-agnostic architecture with open, proprietary, cloud, or self-hosted models
-- On-premises, private cloud, and cloud deployment options
-- Multichannel and multilingual communication across web and mobile apps, messengers, email, SMS, and voice
-- Integration with back-end systems and corporate infrastructure through APIs and standard protocols
-- Enterprise features including horizontal scalability, audit trails, and access control
+- Voice and text AI agents across connected channels, including web, messengers, email, SMS, and telephony
+- Customer context and a 360-degree view built from connected data and linked customer identifiers
+- Configurable agent instructions, knowledge sources, tools, and permissions
+- Human handoff and Copilot, with operator availability determined by the service team
+- Outbound campaigns through configured channels and agents
+- Conversation history, campaign dashboards, and AI-driven analysis
+- Model-agnostic architecture with configured cloud or self-hosted model connections
+- SaaS deployment, with private cloud and on-premises options for Enterprise
+- Back-end integrations through configured tools, APIs, and permissions
+- Enterprise capabilities including horizontal scalability, audit trails, and access control
 
 ## Links
 
-- Website: https://flametree.ai/
-- Documentation: https://docs.flametree.ai/
-- GitHub: https://github.com/Flametree-ai
-- GitHub Pages: https://flametree-ai.github.io/
+- [Website](https://flametree.ai/)
+- [Documentation](https://docs.flametree.ai/)
+- [GitHub profile](https://github.com/Flametree-ai)
+- [GitHub Pages](https://flametree-ai.github.io/)
